@@ -7,4 +7,4 @@ to estimate the fare prices accurately and demand of ubers across the neighborho
 Objective : main objective of project is to design an algorithm which will tell the fare to be charged for a passenger.
 
 Link for presentation for basic Understanding abot the Project
-https://www.businessofapps.com/data/ride-hailing-app-market/
+https://docs.google.com/presentation/d/11AhoxE9LTsR8--od8yj6fCI-keYmCTTi36NYa_h5U0Y/edit?usp=sharing
